@@ -1,6 +1,6 @@
 ## 📱BMI Calculator
 
-BMI Calculator is an Android Studio Mini project that calculates the Body Mass Index (BMI) based on user input for height and weight. It provides an indication of whether the user is underweight, overweight, or within a healthy weight range.
+- BMI Calculator is an Android Studio Mini project that calculates the Body Mass Index (BMI) based on user input for height and weight. It provides an indication of whether the user is underweight, overweight, or within a healthy weight range.
 
 ## 🔗Features
 
@@ -16,10 +16,10 @@ BMI Calculator is an Android Studio Mini project that calculates the Body Mass I
 - XML: The markup language used for defining the app's user interface.
 
 ## 🔗Screenshots
-![s8_samsung-galaxys20-cosmicgrey-portrait](https://github.com/om2438164/BMI-Calculator/assets/117569343/f82ee459-9b1e-4bde-be02-8ac0d565e046)
-![s3_samsung-galaxys20-cosmicgrey-portrait](https://github.com/om2438164/BMI-Calculator/assets/117569343/bf19621b-2cc4-478f-9520-bc836bdb1316)
-![s1_samsung-galaxys20-cosmicgrey-portrait 1](https://github.com/om2438164/BMI-Calculator/assets/117569343/ee60a2d4-6690-4022-a16e-52b44fa03a19)
-![s4_samsung-galaxys20-cosmicgrey-portrait](https://github.com/om2438164/BMI-Calculator/assets/117569343/02a3c5c8-84d7-4ba4-a938-ae5a73971921)
+
+<img src="https://github.com/om2438164/BMI-Calculator/assets/117569343/f82ee459-9b1e-4bde-be02-8ac0d565e046" width="250" alt="Screenshot 1"> <img src="https://github.com/om2438164/BMI-Calculator/assets/117569343/bf19621b-2cc4-478f-9520-bc836bdb1316" width="250" alt="Screenshot 2">
+
+<img src="https://github.com/om2438164/BMI-Calculator/assets/117569343/ee60a2d4-6690-4022-a16e-52b44fa03a19" width="250" alt="Screenshot 3"> <img src="https://github.com/om2438164/BMI-Calculator/assets/117569343/02a3c5c8-84d7-4ba4-a938-ae5a73971921" width="250" alt="Screenshot 4">
 
 ## 🔗Usage
 
@@ -27,4 +27,4 @@ BMI Calculator is an Android Studio Mini project that calculates the Body Mass I
 2. Open the project in Android Studio.
 3. Build and run the app on an Android emulator or a physical device.
 4. Enter your height and weight values.
-5. Click the "Calculate" button to get your BMI and classification.
+5. Click the "Calculate BMI" button to get your BMI and classification.
